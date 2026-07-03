@@ -1,0 +1,9 @@
+Las plataformas tecnológicas deben funcionar de manera estable para brindar un buen servicio a los usuarios.
+Un servidor estable evita interrupciones inesperadas.
+También garantiza que la información esté disponible cuando sea necesaria.
+La seguridad protege los datos almacenados y evita accesos no autorizados.
+Monitorear el servidor permite detectar errores rápidamente.
+Los registros ayudan a identificar posibles fallos.
+Un buen funcionamiento genera confianza en la comunidad.
+Además, facilita el desarrollo de proyectos tecnológicos sostenibles.
+Por estas razones es importante mantener servidores seguros y estables.
