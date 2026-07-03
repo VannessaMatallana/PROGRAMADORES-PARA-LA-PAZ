@@ -1,0 +1,9 @@
+
+Ruta /:
+Muestra el mensaje "Servidor activo".
+
+Ruta /saludo:
+Muestra el mensaje "Hola comunidad".
+
+Ruta /mensaje/juan:
+Devuelve el mensaje "Hola juan", tomando el nombre desde la URL.
