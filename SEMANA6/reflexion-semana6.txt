@@ -1,0 +1,10 @@
+Es importante que las plataformas tecnológicas puedan recibir información enviada 
+por los ciudadanos de forma organizada. El uso de JSON permite estructurar
+correctamente los datos para que el servidor pueda procesarlos. Esto facilita el 
+registro de reportes e incidencias de manera eficiente. Además, mejora la
+comunicación entre la comunidad y las entidades responsables. Los datos 
+organizados permiten realizar análisis y tomar mejores decisiones. También 
+ayudan a mantener un historial de la información recibida. Herramientas como
+Express simplifican este proceso dentro de una aplicación web. Considero que
+aprender a recibir y procesar datos es una habilidad esencial en el 
+desarrollo de software.

@@ -1,1 +1,10 @@
-Las APIs permiten que diferentes aplicaciones intercambien información de forma organizada. Gracias a ellas es posible enviar y recibir datos entre sistemas sin complicaciones. En una comunidad pueden utilizarse para compartir reportes, alertas o información importante. También ayudan a automatizar procesos y mejorar la comunicación entre ciudadanos y organizaciones. Su uso facilita el desarrollo de aplicaciones modernas y eficientes. Además, permiten integrar diferentes servicios en una misma plataforma. Esto hace que las soluciones tecnológicas sean más útiles para las personas. Considero que comprender el funcionamiento de las APIs es una habilidad muy importante para un desarrollador.
+Las APIs permiten que diferentes aplicaciones intercambien información de forma
+organizada. Gracias a ellas es posible enviar y recibir datos entre sistemas sin
+complicaciones. En una comunidad pueden utilizarse para compartir reportes,
+alertas o información importante. También ayudan a automatizar procesos y
+mejorar la comunicación entre ciudadanos y organizaciones. Su uso facilita el
+desarrollo de aplicaciones modernas y eficientes. Además, permiten integrar
+diferentes servicios en una misma plataforma. Esto hace que las soluciones
+tecnológicas sean más útiles para las personas. Considero que comprender el
+funcionamiento de las APIs es una habilidad muy importante para un
+desarrollador.
