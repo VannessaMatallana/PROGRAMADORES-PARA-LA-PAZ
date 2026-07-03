@@ -1,0 +1,8 @@
+Al enviar un reporte mediante la ruta POST /reportes, el servidor almacena la
+información en un arreglo temporal llamado reportes.
+
+Cuando posteriormente se consulta la ruta GET /reportes, el servidor devuelve
+todos los reportes registrados en formato JSON.
+
+Mientras el servidor permanezca encendido, los reportes seguirán disponibles. Si
+el servidor se reinicia, los datos almacenados en memoria se eliminan.
