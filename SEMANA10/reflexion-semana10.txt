@@ -1,0 +1,13 @@
+Las metodologías ágiles permiten organizar mejor el trabajo porque 
+facilitan la planificación de tareas y la revisión constante de los 
+avances. El uso de un backlog ayuda a establecer prioridades y 
+distribuir responsabilidades dentro del equipo. Además, trabajar 
+mediante iteraciones permite corregir errores de manera temprana y 
+mejorar continuamente el proyecto. Herramientas como Telegram y n8n 
+fortalecen la comunicación y automatizan tareas repetitivas, 
+optimizando el tiempo y mejorando la coordinación. Sin embargo, 
+la automatización debe implementarse de forma responsable para proteger 
+la información de la comunidad. La supervisión humana continúa siendo 
+indispensable para validar procesos y tomar decisiones. En conjunto, 
+estas herramientas contribuyen a desarrollar proyectos tecnológicos 
+más organizados, eficientes y orientados al beneficio de la comunidad.

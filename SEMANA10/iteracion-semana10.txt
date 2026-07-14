@@ -1,0 +1,12 @@
+
+Las dos primeras tareas que desarrollaría serían el registro de 
+incidencias y el envío de notificaciones mediante Telegram.
+
+Estas actividades son prioritarias porque permiten iniciar el flujo 
+de comunicación entre la comunidad y los responsables del seguimiento.
+
+Para mí, una tarea está terminada cuando:
+
+- Funciona correctamente.
+- Fue revisada y probada.
+- Se encuentra registrada y respaldada en el repositorio Git.

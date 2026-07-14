@@ -1,0 +1,23 @@
+
+Evento que activa el flujo:
+
+Se registra una nueva incidencia en la plataforma.
+
+Acción automática:
+
+n8n procesa la información y envía una notificación mediante Telegram.
+
+Mensaje enviado:
+
+"Nuevo reporte comunitario registrado. Ingrese a la plataforma para 
+realizar el seguimiento correspondiente."
+
+Información que NO debe enviarse:
+
+- Nombre completo del ciudadano.
+- Documento de identidad.
+- Dirección.
+- Número telefónico.
+- Correo electrónico.
+- Contraseñas.
+- Información sensible del caso.
