@@ -1,0 +1,12 @@
+Una plataforma tecnológica orientada a la participación ciudadana 
+requiere una base de datos para organizar y conservar la información de 
+manera estructurada. La autenticación de usuarios permite controlar el 
+acceso y garantizar que solo las personas autorizadas puedan realizar 
+determinadas acciones. Asimismo, la protección de la información es 
+fundamental para preservar la privacidad y generar confianza entre los 
+ciudadanos. Una plataforma sin medidas de seguridad podría exponer datos 
+personales o facilitar el uso indebido de la información. Además, la 
+trazabilidad permite conocer quién realizó modificaciones y cuándo 
+ocurrieron, fortaleciendo la transparencia y la rendición de cuentas. 
+Estos elementos son indispensables para desarrollar soluciones 
+tecnológicas confiables, seguras y útiles para la comunidad.

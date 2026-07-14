@@ -1,0 +1,10 @@
+
+El proceso de login permite identificar a los usuarios antes de acceder
+a una plataforma. Gracias a la autenticación, el sistema puede verificar 
+la identidad de cada persona y otorgar únicamente los permisos que le 
+corresponden. Algunas rutas deben permanecer protegidas porque contienen 
+información privada o funciones administrativas. De igual forma, no 
+deben exponerse públicamente contraseñas, documentos de identidad, 
+direcciones, números telefónicos, tokens, claves de acceso ni otros 
+datos sensibles. La autenticación fortalece la seguridad de la 
+plataforma y protege la información de la comunidad.

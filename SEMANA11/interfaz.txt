@@ -1,0 +1,10 @@
+
+La plataforma tendría una interfaz sencilla e intuitiva. En la parte 
+principal existiría un formulario para registrar una nueva causa o 
+reporte comunitario mediante un título y una descripción. También se 
+mostraría un listado con las causas disponibles para consulta de los 
+ciudadanos. Cada causa incluiría un botón de apoyo y un contador que 
+refleje el número de personas que respaldan la iniciativa. La interfaz 
+evitaría mostrar información personal de los usuarios y únicamente 
+presentaría los datos necesarios para garantizar la transparencia y 
+facilitar la participación ciudadana.
