@@ -1,0 +1,31 @@
+AUTOMATIZACIÓN DEL SISTEMA
+
+Evento que activa la automatización:
+
+Se registra una nueva causa comunitaria en la plataforma "Petición en 
+3 Clics".
+
+Proceso automático:
+
+La plataforma envía la información a n8n, el cual ejecuta un flujo para 
+generar una notificación mediante Telegram dirigida al equipo de 
+coordinación comunitaria.
+
+Mensaje enviado:
+
+"Nueva causa registrada en la plataforma. Ingrese al sistema para 
+revisar la información y realizar el seguimiento correspondiente."
+
+Información que NO debe enviarse:
+
+- Nombres completos de los ciudadanos.
+- Documentos de identidad.
+- Direcciones de residencia.
+- Números telefónicos.
+- Correos electrónicos.
+- Comentarios privados.
+- Claves, tokens o cualquier dato sensible.
+
+La automatización debe utilizarse únicamente como apoyo para la 
+coordinación del equipo y nunca para divulgar información confidencial 
+de la comunidad.

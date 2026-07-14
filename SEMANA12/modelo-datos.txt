@@ -1,0 +1,34 @@
+MODELO DE DATOS
+
+Entidad: Causa
+
+Campos principales:
+
+- id
+- titulo
+- descripcion
+- fecha_creacion
+- estado
+- total_apoyos
+
+Propósito:
+
+Almacenar la información de cada causa comunitaria registrada por los 
+ciudadanos, permitiendo su consulta, seguimiento y generación de la 
+petición formal.
+
+
+Entidad: Apoyo
+
+Campos principales:
+
+- id
+- causa_id
+- fecha_apoyo
+- codigo_participacion
+
+Propósito:
+
+Registrar cada apoyo recibido por una causa, contabilizando la 
+participación ciudadana sin almacenar datos personales innecesarios, 
+fortaleciendo la privacidad y la transparencia del sistema.

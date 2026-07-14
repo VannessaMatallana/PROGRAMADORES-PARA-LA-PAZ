@@ -1,0 +1,24 @@
+FLUJO DEL SISTEMA "PETICIÓN EN 3 CLICS"
+
+1. Un ciudadano ingresa a la plataforma y registra una nueva causa 
+comunitaria con un título y una descripción clara del problema o 
+necesidad identificada.
+
+2. La información de la causa se almacena en la base de datos para 
+garantizar su organización, disponibilidad y posterior seguimiento.
+
+3. Otros ciudadanos pueden consultar las causas publicadas y expresar 
+su apoyo mediante un botón diseñado para registrar su participación 
+sin solicitar información personal innecesaria.
+
+4. El sistema actualiza automáticamente el número de apoyos recibidos, 
+permitiendo visualizar el respaldo ciudadano de manera transparente.
+
+5. Cuando la causa alcanza el número de apoyos esperado, la plataforma 
+genera automáticamente un documento PDF con la información necesaria 
+para presentar formalmente la petición ante la entidad correspondiente.
+
+6. Finalmente, el sistema puede enviar una notificación automática al 
+equipo coordinador indicando que existe una nueva petición lista para 
+revisión, sin incluir datos personales o información sensible de los 
+participantes.

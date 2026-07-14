@@ -1,0 +1,15 @@
+Durante este curso comprendí que la tecnología puede convertirse en una 
+herramienta para fortalecer la participación ciudadana cuando se diseña 
+pensando en las necesidades reales de las comunidades. Aprendí que una 
+plataforma no solo debe funcionar correctamente desde el punto de vista 
+técnico, sino que también debe garantizar la transparencia, la 
+trazabilidad y la protección de la información de las personas. 
+Además, entendí la importancia de utilizar metodologías ágiles para 
+organizar el trabajo, de implementar bases de datos que almacenen 
+únicamente la información necesaria y de emplear automatizaciones 
+responsables mediante herramientas como n8n o Telegram para mejorar la 
+coordinación sin comprometer la privacidad. Considero que proyectos 
+como "Petición en 3 Clics" demuestran que el desarrollo de software 
+también puede contribuir al control social, la participación ciudadana 
+y la construcción de soluciones tecnológicas con impacto positivo para 
+la comunidad.
